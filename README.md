@@ -2,13 +2,16 @@
 
 Free desktop app for Windows, macOS, and Linux to browse, manage, and monitor your Cloudflare Workers KV namespaces and key-value pairs.
 
-> **Note:** This repository does not contain any source code. It is used exclusively for:
-> - 🐛 [Issues](../../issues) — bug reports and feature requests
-> - 💬 [Discussions](../../discussions) — questions and community conversations
-> - 🚀 [Releases](../../releases) — release notes and changelogs
+> **Note:** This repository does not contain source code. It is used for issue tracking, discussions, and release notes.
 
 ## Download
 
-The software is available to download for free from the official website:
+Available for free at:
 
-👉 **[https://mecanik.dev/en/products/easy-cloudflare-kv/](https://mecanik.dev/en/products/easy-cloudflare-kv/)**
+**[mecanik.dev/en/products/easy-cloudflare-kv](https://mecanik.dev/en/products/easy-cloudflare-kv/)**
+
+## Support & Feedback
+
+- [Issues](../../issues) - Bug reports and feature requests
+- [Discussions](../../discussions) - Questions, ideas, and community feedback
+- [Releases](../../releases) - Changelogs and version history
